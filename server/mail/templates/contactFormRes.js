@@ -74,8 +74,8 @@ exports.contactUsEmail = (
   
   <body>
       <div class="container">
-          <a href="https://study-notion-kapil-2305.vercel.app"><img class="logo"
-                  src="https://res.cloudinary.com/dgpkeaffc/image/upload/v1723297508/logo-black_d64qsn.png" alt="LearnSphere Logo"></a>
+          <a href="https://learn-sphere-kapil-2305.vercel.app/"><img class="logo"
+                  src="https://res.cloudinary.com/dgpkeaffc/image/upload/v1723297508/logo-no-background_qlul06.png" alt="LearnSphere Logo"></a>
           <div class="message">Contact Form Confirmation</div>
           <div class="body">
               <p>Dear ${firstname} ${lastname},</p>
