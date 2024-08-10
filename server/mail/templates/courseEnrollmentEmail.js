@@ -67,7 +67,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
   
   <body>
       <div class="container">
-          <a href="https://study-notion-kapil-2305.vercel.app"><img class="logo" src="https://res.cloudinary.com/dgpkeaffc/image/upload/v1723297508/logo-black_d64qsn.png"
+          <a href="https://learn-sphere-kapil-2305.vercel.app/"><img class="logo" src="https://res.cloudinary.com/dgpkeaffc/image/upload/v1723297508/logo-no-background_qlul06.png"
                   alt="LearnSphere Logo"></a>
           <div class="message">Course Registration Confirmation</div>
           <div class="body">
@@ -76,7 +76,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
                   are excited to have you as a participant!</p>
               <p>Please log in to your learning dashboard to access the course materials and start your learning journey.
               </p>
-              <a class="cta" href="https://study-notion-kapil-2305.vercel.app/dashboard/enrolled-courses">Go to Enrolled Courses</a>
+              <a class="cta" href="https://learn-sphere-kapil-2305.vercel.app/dashboard/enrolled-courses">Go to Enrolled Courses</a>
           </div>
           <div class="support">If you have any questions or need assistance, please feel free to reach out to us at <a
                   href="mailto:info@learnsphere.com">info@learnsphere.com</a>. We are here to help!</div>
