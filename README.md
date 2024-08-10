@@ -1,6 +1,6 @@
 # LearnSphere Online Education Platform (MERN App) [Website Link](https://study-notion-kapil-2305.vercel.app/)
 
-![Main Page](/src/assets/Images/HomePage.png)
+![Main Page](https://res.cloudinary.com/dgpkeaffc/image/upload/v1723310680/Screenshot_2024-08-10_at_10.53.39_PM_qrykfu.png)
 
 ## Project Description
 
